@@ -1,6 +1,6 @@
 ### Greetings! :wave::wave:
 
-_[Versão em pt-br abaixo. :brazil:]_
+_[Versão em pt-br abaixo.]_
 
 My name is Matheus Dias and I'm a (almost) self-taught software developer student.
 
@@ -19,7 +19,7 @@ That I have some mastery:
 
 That I can use:
 
-- NODEJs
+- NODEJs <img src="./assets/nodejs.svg" width="30px">
 - Typescript
 - C#
 
