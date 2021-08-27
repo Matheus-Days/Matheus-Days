@@ -47,7 +47,7 @@ Also I had little to no idea on how to use Git/Github, not to mention on how to 
 
 <a href="https://github.com/Matheus-Days/psyte-app">Here's the link to it.</a>
 
-[The app itself is currently offline, but there're videos of it in my Linkedin profile <a href="/Matheus-Days#How-to-reach-me-mailbox_with_mail">below</a>.]
+[The app itself is currently offline, but there're videos of it in my Linkedin profile <a href="#how-to-reach-me-mailbox_with_mail">below</a>.]
 
 ---
 
