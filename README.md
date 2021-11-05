@@ -50,6 +50,18 @@ This one is a much more properly documented project, so I only need to mention i
 
 ---
 
+### <img width="50%" src="./assets/logo-dark.svg">
+
+DAMA is an amazing product by [Audo](https://www.audo.com.br/), and I got hired to develop it's marketing website.
+
+It's a simple landing page, but this was my first freelance project, so I learned so much coding under third party deadlines, with third party design and towards a goal not set by me.
+
+I still had the freedom to choose the technologies I wished, as long as the final product would be a statically served folder, so I found a way to use TSX in this project.
+
+[Here's the link to the repo.](https://github.com/Matheus-Days/dama-website)
+
+And although the latest version hasn't been deployed yet, [here's the link to the functional app.](http://damacad.com.br/)
+
 ### How to reach me :mailbox_with_mail:
 
 :e-mail: <a href="mailto:matheusbragaprofissional@gmail.com">matheusbragaprofissional@gmail.com</a>
