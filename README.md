@@ -19,7 +19,33 @@ By the way, I said that I'm _almost_ self-taught because in august 2021 I starte
 
 ### Most relevant projects :file_folder:
 
-These are not relevant due to the impact they had on some business or on society at large, but due to the level of learning that I had while developing them. I listed them from oldest to newest.
+These are not relevant due to the impact they had on some business or on society at large, but due to the level of learning that I had while developing them. I listed them from newest to oldest.
+
+---
+
+### <img width="50%" src="./assets/logo-dark.svg" alt="Logo da DAMA">
+
+DAMA is an amazing product by [Audo](https://www.audo.com.br/), and I got hired to develop it's marketing website.
+
+It's a simple landing page, but this was my first freelance project, so I learned so much coding under third party deadlines, with third party design and towards a goal not set by me.
+
+I still had the freedom to choose the technologies I wished, as long as the final product would be a statically served folder, so I found a way to use TSX in this project.
+
+[Here's the link to the repo.](https://github.com/Matheus-Days/dama-website)
+
+And although the latest version hasn't been deployed yet, [here's the link to the functional app.](http://damacad.com.br/)
+
+---
+
+#### <img src="./assets/letmeask.svg">
+
+Letmeask is a front-end studying app that I made by following a tutorial and then making improvements of my own. Because of this I won a scholarship to a <a href="https://rocketseat.com.br/ignite">Rocketseat's</a> paid course.
+
+This one is a much more properly documented project, so I only need to mention it here and you may know more about it better by reading it's `README.md`.
+
+<a href="https://github.com/Matheus-Days/letmeask">Here's the link to the repo.</a>
+
+<a href="https://letmeask-bc5d7.web.app/">Here's the link to the functional app.</a>
 
 ---
 
@@ -36,32 +62,6 @@ Also I had little to no idea on how to use Git/Github, not to mention on how to 
 <a href="https://github.com/Matheus-Days/psyte-app">Here's the link to it.</a>
 
 [The app itself is currently offline, but there're videos of it in my Linkedin profile <a href="#how-to-reach-me-mailbox_with_mail">below</a>.]
-
----
-
-#### <img src="./assets/letmeask.svg">
-
-Letmeask is a front-end studying app that I made by following a tutorial and then making improvements of my own. Because of this I won a scholarship to a <a href="https://rocketseat.com.br/ignite">Rocketseat's</a> paid course.
-
-This one is a much more properly documented project, so I only need to mention it here and you may know more about it better by reading it's `README.md`.
-
-<a href="https://github.com/Matheus-Days/letmeask">Here's the link to the repo.</a>
-
-<a href="https://letmeask-bc5d7.web.app/">Here's the link to the functional app.</a>
-
----
-
-### <img width="50%" src="./assets/logo-dark.svg">
-
-DAMA is an amazing product by [Audo](https://www.audo.com.br/), and I got hired to develop it's marketing website.
-
-It's a simple landing page, but this was my first freelance project, so I learned so much coding under third party deadlines, with third party design and towards a goal not set by me.
-
-I still had the freedom to choose the technologies I wished, as long as the final product would be a statically served folder, so I found a way to use TSX in this project.
-
-[Here's the link to the repo.](https://github.com/Matheus-Days/dama-website)
-
-And although the latest version hasn't been deployed yet, [here's the link to the functional app.](http://damacad.com.br/)
 
 ### How to reach me :mailbox_with_mail:
 
