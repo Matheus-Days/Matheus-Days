@@ -8,13 +8,14 @@ By the way, I said that I'm _almost_ self-taught because in august 2021 I starte
 
 ### Technologies :computer:
 
-|                           That I have some mastery                           |                  That I can use at least the basic features                  |                      That I'm looking forward to learn                      |
-| :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
-|        HTML5 <img src="./assets/html5.svg" alt="html5" height="25"/>         |           GIT <img src="./assets/git.svg" alt="git" height="25"/>            | React Native <img src="./assets/react.svg" alt="react native" height="25"/> |
-|          CSS <img src="./assets/css3.svg" alt="css3" height="25"/>           |       NextJs <img src="./assets/nextjs.svg" alt="nextjs" height="25"/>       |       .NET <img src="./assets/dotnet.svg" alt="dot net" height="25"/>       |
-| Javascript <img src="./assets/javascript.svg" alt="javascript" height="25"/> |       NODEJs <img src="./assets/nodejs.svg" alt="nodejs" height="25"/>       |         Java <img src="./assets/java.svg" alt="java" height="25"/>          |
-|      ReactJs <img src="./assets/react.svg" alt="reactjs" height="25"/>       | Typescript <img src="./assets/typescript.svg" alt="typescript" height="25"/> |      Kotlin <img src="./assets/kotlin.svg" alt="kotlin" height="25"/>       |
-|                                                                              |        C# <img src="./assets/csharp.svg" alt="drawing" height="25"/>         |                                                                             |
+|                                                     That I have some mastery |                                  That I can use at least the basic features |                                                                                        That I'm looking forward to learn |
+| ---------------------------------------------------------------------------: | --------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------------------------------------: |
+|                 HTML <img src="./assets/html5.svg" alt="html5" height="25"/> |                  Java <img src="./assets/java.svg" alt="java" height="25"/> |                                                            C# <img src="./assets/csharp.svg" alt="drawing" height="25"/> |
+|                    CSS <img src="./assets/css3.svg" alt="css3" height="25"/> |              Next <img src="./assets/nextjs.svg" alt="nextjs" height="25"/> |                                                          .NET <img src="./assets/dotnet.svg" alt="dot net" height="25"/> |
+| Javascript <img src="./assets/javascript.svg" alt="javascript" height="25"/> |              NODE <img src="./assets/nodejs.svg" alt="nodejs" height="25"/> |                                                         Kotlin <img src="./assets/kotlin.svg" alt="kotlin" height="25"/> |
+|              React <img src="./assets/react.svg" alt="reactjs" height="25"/> | React Native <img src="./assets/react.svg" alt="react native" height="25"/> | Spring <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" height="25px" /> |
+|         TS <img src="./assets/typescript.svg" alt="typescript" height="25"/> |                                                                             |                                                                                                                          |
+|                      GIT <img src="./assets/git.svg" alt="git" height="25"/> |                                                                             |                                                                                                                          |
 
 ### Most relevant projects :file_folder:
 
