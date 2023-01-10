@@ -1,10 +1,10 @@
 ## Greetings! :wave::wave:
 
-My name is Matheus Dias and I'm a (almost) self-taught software development student.
+My name is Matheus Dias and I'm a (almost) self-taught software developer.
 
-Although I have a Psychology degree, since 2020 I've been studying software development through a javascript technology stack. So far I've focused especially on frontend apps, but I have some backend knowledge and I still intend to deepen it further.
+Although I have a Psychology degree, since 2020 I've been studying software development through a javascript technology stack. So far I've focused especially on front-end development, but I have some back-end knowledge and I still intend to deepen it further.
 
-By the way, I said that I'm _almost_ self-taught because in august 2021 I started a 2 years course on Web Development at <a href="https://www.digitalhouse.com/br/acoes/certified-tech-developer">Digital House</a>.
+By the way, I consider myself _almost_ self-taught because in august 2021 I started a course on Web Development at <a href="https://www.digitalhouse.com/br/acoes/certified-tech-developer">Digital House</a> and successfully completed its first year.
 
 ### Technologies :computer:
 
@@ -14,8 +14,9 @@ By the way, I said that I'm _almost_ self-taught because in august 2021 I starte
 |                    CSS <img src="./assets/css3.svg" alt="css3" height="25"/> |              Next <img src="./assets/nextjs.svg" alt="nextjs" height="25"/> |                                                          .NET <img src="./assets/dotnet.svg" alt="dot net" height="25"/> |
 | Javascript <img src="./assets/javascript.svg" alt="javascript" height="25"/> |              NODE <img src="./assets/nodejs.svg" alt="nodejs" height="25"/> |                                                         Kotlin <img src="./assets/kotlin.svg" alt="kotlin" height="25"/> |
 |              React <img src="./assets/react.svg" alt="reactjs" height="25"/> | React Native <img src="./assets/react.svg" alt="react native" height="25"/> | Spring <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" height="25px" /> |
-|         TS <img src="./assets/typescript.svg" alt="typescript" height="25"/> |                                                                             |                                                                                                                          |
+|         TS <img src="./assets/typescript.svg" alt="typescript" height="25"/> | Apollo <img src="./assets/apollo.svg" alt="typescript" height="25"/> |                                                                                                                          |
 |                      GIT <img src="./assets/git.svg" alt="git" height="25"/> |                                                                             |                                                                                                                          |
+|               Angular <img src="./assets/angular.png" alt="git" height="25"> |                                                                             |                                                                                                                          |
 
 ### Most relevant projects :file_folder:
 
