@@ -43,6 +43,18 @@ For styling, I primarily used Tailwind CSS, but I also incorporated some compone
 
 ---
 
+### <img src="./assets/table-view.svg" height="36px" alt="material table_view icon"> Compila-p (prototype)
+
+During the development of the Practicus website, one of the owners requested a tool to compile the results of specific queries from the [TCE API](https://api-dados-abertos.tce.ce.gov.br/docs/#/) into an XLSX workbook.
+
+This led me to develop a prototype using Angular that met his needs with minimal UX/UI efforts. I hosted the prototype for free at Netlify.
+
+[Here's the link to the repo.](https://github.com/matheus-days/compila-p)
+
+[And here's the link to the website.](https://compilap.netlify.app/)
+
+---
+
 ### <img src="./assets/eduardo-autos-logo.jpg" alt="Logo da oficina mecânica Eduardo Autos">
 
 One of my Software Engineering disciplines is a recurring extension project, which every semester requires me to participate in some project for and with my local community. In my first semester, I chose to help a local business improve their online presence by creating a landing page.
